@@ -22,7 +22,7 @@ menuButton.addEventListener("click", () => {
 });
 
 
-/*CLOSE MOBILE MENU WHEN LINK IS CLICKED*/
+/*CLOSE MOBILE MENU WHEN LINK IS CLICKED*/ 
 
 const navigationLinks =
     document.querySelectorAll(
